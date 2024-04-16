@@ -10,9 +10,9 @@ async function activity() {
     details: "Some details",
     state: "(1/2)",
     largeImageKey: `${LargeImgURL}`, // 1024x1024 recommended
-    largeImageText: "",
+    largeImageText: "Some text",
     smallImageKey: `${SmallImgURL}`, // 1024x1024 recommended
-    smallImageText: "Something about small text",
+    smallImageText: "Some text",
     instance: false,
     startTimestamp: Date.now(),
     buttons: [
